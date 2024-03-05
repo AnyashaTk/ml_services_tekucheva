@@ -1,0 +1,7 @@
+fastapi
+pandas
+pydantic
+uvicorn
+asyncpg
+scikit-learn
+
